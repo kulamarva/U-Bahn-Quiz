@@ -1,7 +1,7 @@
 {
   "name": "U-Bahn Quiz",
   "short_name": "qUiz",
-  "start_url": "/U-Bahn-Quiz/pwa.html",
+  "start_url": "./pwa.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ff0000",
